@@ -1,7 +1,7 @@
 # 🔍 Issuer Onboarding - QA & Testing Checklist
 
 ![Test Type](https://img.shields.io/badge/Test_Type-QA_Checklist-blue)
-![Version](https://img.shields.io/badge/Version-2.1-green)
+![Version](https://img.shields.io/badge/Version-1.1-green)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 ![Environment](https://img.shields.io/badge/Environment-Staging-orange)
 
