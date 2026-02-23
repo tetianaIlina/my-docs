@@ -568,7 +568,7 @@ _______________________________________________________________
 | Field | Value |
 |-------|-------|
 | **Document Title** | Issuer Onboarding - QA & Testing Checklist |
-| **Version** | 2.1 |
+| **Version** | 1.1 |
 | **Last Updated** | 2026-02-20 |
 | **Test Environment** | Staging/Sandbox |
 | **Test Cycle** | [Cycle Number/Name] |
